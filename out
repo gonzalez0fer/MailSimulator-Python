@@ -1,0 +1,122 @@
+1 Iniciando paquete p1 por el mensajero 1.
+1 Iniciando paquete p2 por el mensajero 2.
+1 Iniciando paquete p5 por el mensajero 3.
+10 Finalizando paquete p5 por el mensajero 3.
+100 Listado
+p1 1 100 1000 mensajero 1
+p2 1 900 2000 mensajero 2
+p3 2 1000 10 Cola de prioridades
+p4 3 100 100 Cola de prioridades
+Fin listado
+200 Listado
+p1 1 100 1000 mensajero 1
+p2 1 900 2000 mensajero 2
+p3 2 1000 10 Cola de prioridades
+p4 3 100 100 Cola de prioridades
+Fin listado
+300 Listado
+p1 1 100 1000 mensajero 1
+p2 1 900 2000 mensajero 2
+p3 2 1000 10 Cola de prioridades
+p4 3 100 100 Cola de prioridades
+Fin listado
+400 Listado
+p1 1 100 1000 mensajero 1
+p2 1 900 2000 mensajero 2
+p3 2 1000 10 Cola de prioridades
+p4 3 100 100 Cola de prioridades
+Fin listado
+500 Listado
+p1 1 100 1000 mensajero 1
+p2 1 900 2000 mensajero 2
+p3 2 1000 10 Cola de prioridades
+p4 3 100 100 Cola de prioridades
+Fin listado
+600 Listado
+p1 1 100 1000 mensajero 1
+p2 1 900 2000 mensajero 2
+p3 2 1000 10 Cola de prioridades
+p4 3 100 100 Cola de prioridades
+Fin listado
+700 Listado
+p1 1 100 1000 mensajero 1
+p2 1 900 2000 mensajero 2
+p3 2 1000 10 Cola de prioridades
+p4 3 100 100 Cola de prioridades
+Fin listado
+800 Listado
+p1 1 100 1000 mensajero 1
+p2 1 900 2000 mensajero 2
+p3 2 1000 10 Cola de prioridades
+p4 3 100 100 Cola de prioridades
+Fin listado
+900 Listado
+p1 1 100 1000 mensajero 1
+p2 1 900 2000 mensajero 2
+p3 2 1000 10 Cola de prioridades
+p4 3 100 100 Cola de prioridades
+Fin listado
+1000 Listado
+p1 1 100 1000 mensajero 1
+p2 1 900 2000 mensajero 2
+p3 2 1000 10 Cola de prioridades
+p4 3 100 100 Cola de prioridades
+Fin listado
+1000 Finalizando paquete p1 por el mensajero 1.
+1001 Empilando 2 subpaquetes del paquete p4 en el mensajero 1.
+1001 Iniciando paquete p4 por el mensajero 1.
+1100 Listado
+p2 1 900 2000 mensajero 2
+p3 2 1000 10 Cola de prioridades
+p4 3 100 100 mensajero 1
+p4-0 3 0 100 mensajero 1
+p4-1 3 0 100 mensajero 1
+Fin listado
+1100 Finalizando paquete p4 por el mensajero 1.
+1101 Iniciando paquete p4-0 por el mensajero 1.
+1200 Listado
+p2 1 900 2000 mensajero 2
+p3 2 1000 10 Cola de prioridades
+p4-0 3 0 100 mensajero 1
+p4-1 3 0 100 mensajero 1
+Fin listado
+1200 Finalizando paquete p4-0 por el mensajero 1.
+1201 Iniciando paquete p4-1 por el mensajero 1.
+1300 Listado
+p2 1 900 2000 mensajero 2
+p3 2 1000 10 Cola de prioridades
+p4-1 3 0 100 mensajero 1
+Fin listado
+1300 Finalizando paquete p4-1 por el mensajero 1.
+1400 Listado
+p2 1 900 2000 mensajero 2
+p3 2 1000 10 Cola de prioridades
+Fin listado
+1500 Listado
+p2 1 900 2000 mensajero 2
+p3 2 1000 10 Cola de prioridades
+Fin listado
+1600 Listado
+p2 1 900 2000 mensajero 2
+p3 2 1000 10 Cola de prioridades
+Fin listado
+1700 Listado
+p2 1 900 2000 mensajero 2
+p3 2 1000 10 Cola de prioridades
+Fin listado
+1800 Listado
+p2 1 900 2000 mensajero 2
+p3 2 1000 10 Cola de prioridades
+Fin listado
+1900 Listado
+p2 1 900 2000 mensajero 2
+p3 2 1000 10 Cola de prioridades
+Fin listado
+2000 Listado
+p2 1 900 2000 mensajero 2
+p3 2 1000 10 Cola de prioridades
+Fin listado
+2000 Finalizando paquete p2 por el mensajero 2.
+2001 Iniciando paquete p3 por el mensajero 1.
+2010 Finalizando paquete p3 por el mensajero 1.
+2011 Fin
